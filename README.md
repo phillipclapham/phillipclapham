@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phillipclapham
 - 👀 I specialize in WordPress support and development
-- 💞️ I’m looking to help anybody who has difficult to solve WordPress isues's or use cases
+- 💞️ I’m looking to help anybody who has difficult to solve WordPress issues's or use cases
 - 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/phillipclapham/)
 
 <!---
