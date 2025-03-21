@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @phillipclapham
-- 👀 I'm a WordPress and web expert
+- 👀 I'm a systems theorist, writer, and WordPress and web expert
 - 💞️ I work at Pressable as a Technical Account Manager
 - 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/phillipclapham/)
 
