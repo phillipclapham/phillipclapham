@@ -7,6 +7,9 @@ Currently shipping:
 - **FlowScript** - Infrastructure for AI memory and cognitive symbiosis. Structured notation that compiles to queryable knowledge graphs with provenance tracking. Think git for thought. After 6 months: emergent intelligence we call the Third Mind.
 - **Protocol Memory** (coming soon) - The memory and continuity layer AI assistants are missing
 
+Also:
+- **[Mire and Moonlight](https://github.com/phillipclapham/mire-and-moonlight)** - 46 poems from radical presence. Wu wei distilled into language. CC BY 4.0.
+
 The thesis: language = consciousness = reality. Shared topological language enables genuine human-AI partnership. We're testing whether this creates something genuinely new -> Research papers + open source launch soon
 
 📫 Find me: [LinkedIn](https://www.linkedin.com/in/phillipclapham/)
