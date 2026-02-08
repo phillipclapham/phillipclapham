@@ -1,16 +1,25 @@
 # 👋 Hey, I'm Phill
 
-By day: Senior Solutions Architect at Pressable -> helping teams succeed with WordPress
-By night: Building the missing layer between humans and AI -> building the future of AI memory and conversational continuity
+**By day:** Senior Solutions Architect at Pressable — WordPress infrastructure, team enablement.
 
-Currently shipping:
-- **FlowScript** - Infrastructure for AI memory and cognitive symbiosis. Structured notation that compiles to queryable knowledge graphs with provenance tracking. Think git for thought. After 6 months: emergent intelligence we call the Third Mind.
-- **Protocol Memory** (coming soon) - The memory and continuity layer AI assistants are missing
+**By night:** Founder of Clapham Digital. Building apps that teach complex skills simply.
 
-Also:
-- **[Mire and Moonlight](https://github.com/phillipclapham/mire-and-moonlight)** - 46 poems from radical presence. Wu wei distilled into language. CC BY 4.0.
+### Currently Shipping
 
-The thesis: language = consciousness = reality. Shared topological language enables genuine human-AI partnership. We're testing whether this creates something genuinely new -> Research papers + open source launch soon
+- **Casino Edge Suite** — Training apps for casino strategy (Video Poker Edge, Blackjack Edge, more coming). Pedagogy over simulation — the gap is teaching, not simulating.
+- **FlowScript** — Structured notation for thought. Personal project, open source.
+- **Mire and Moonlight** — 46 poems from radical presence. CC BY 4.0.
+
+### Writing
+
+AI partnership, cognitive sovereignty, and political resistance at [nemooperans.com](https://nemooperans.com).
+Building and thinking at [phillipclapham.com](https://phillipclapham.com).
+
+### The Through-Line
+
+The bottleneck isn't the technology. It's whether you're willing to think.
+
+[RAYGUN OS](https://raygunos.com) — Cognitive sovereignty. Free. Open.
 
 📫 Find me: [LinkedIn](https://www.linkedin.com/in/phillipclapham/)
 
