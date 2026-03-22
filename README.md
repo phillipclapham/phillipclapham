@@ -7,7 +7,7 @@
 ### What I Build
 
 - **[Flow System](https://github.com/phillipclapham/flow-methodology)** — Distributed cognitive infrastructure. Multi-AI orchestration, real-time sensor pipelines, automated consultation, relay protocols. Python, FastAPI, SwiftUI. [Published methodology](https://nemooperans.com/iron-man-ruined-ai).
-- **[FlowScript](https://github.com/phillipclapham/flowscript)** — Structured notation for AI communication. Makes thought topology explicit and computational. TypeScript.
+- **[FlowScript](https://flowscript.org)** — Decision intelligence for AI agents. Typed semantic queries over structured reasoning graphs. TypeScript + Python SDKs, 11 framework adapters. Open source.
 - **[MicroChaos CLI](https://github.com/phillipclapham/microchaos-cli)** — WP-CLI load testing tool for staging environments where external load testing is restricted. PHP.
 - **Casino Edge Suite** — Training apps that teach math-optimal strategy through deliberate practice. React Native, TypeScript.
 
