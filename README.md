@@ -4,7 +4,7 @@
 
 **Founder** of [Clapham Digital](https://claphamdigital.com) — developer tools and native apps.
 
-**Independent research** on agent systems, harness engineering, and human-AI collaboration.
+**Independent research** on agent systems, harness engineering, and human-AI partnership architecture.
 
 ### Papers
 
