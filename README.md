@@ -1,8 +1,8 @@
 # Hey, I'm Phill
 
-Harness engineer. I named the discipline, then shipped the proof.
+I build the systems other systems run on. For years that was web infrastructure; now it's the arrangement around an AI model: the harness. Same discipline, new substrate.
 
-**Founder** of [Clapham Digital](https://claphamdigital.com) — developer tools, open source, and native apps.
+**Founder** of [Clapham Digital](https://claphamdigital.com) — my studio: web, software, and AI, end to end.
 
 The principle underneath all of it: **build systems to be governed, not trusted.** As agents get more capable, the edge stops being raw capability and becomes oversight — verification, invariants, and governance built into the architecture instead of bolted on after.
 
